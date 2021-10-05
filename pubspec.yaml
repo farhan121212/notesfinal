@@ -1,0 +1,32 @@
+name: notesfinal
+description: A app in flutter.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.3
+  google_fonts: ^1.1.0
+
+  sqflite:
+  path:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_launcher_name: "^0.0.1"
+flutter_launcher_name:
+  name: "TakeNotes"
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/
